@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725598844 source:c:\users\user\onedrive\documentos\questão6\verificadorcpf.c
+	<stdio.h>
+	<stdlib.h>
+

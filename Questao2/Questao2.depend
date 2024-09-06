@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725578302 source:c:\users\user\onedrive\documentos\questao2\numeroprimo.c
+	<stdio.h>
+	<stdlib.h>
+
