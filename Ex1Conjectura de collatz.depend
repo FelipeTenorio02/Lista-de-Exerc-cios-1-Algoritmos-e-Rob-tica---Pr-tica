@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1724242402 source:c:\users\24010394\desktop\ex1conjectura de collatz\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1724242402 source:c:\users\24010394\desktop\ex1conjectura de collatz\tete.c
+	<stdio.h>
+	<stdlib.h>
+
